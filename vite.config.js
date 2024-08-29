@@ -9,7 +9,10 @@ export default defineConfig({
     alias: {
       "$components": path.resolve('./src/components'),
       "$data": path.resolve("./src/data"),
-      "$routes": path.resolve("./src/routes"),
+      "$css": path.resolve("./src/css"),
+	    "$fonts": path.resolve("./public/fonts"),
+      "$images": path.resolve("./src/images"),
+      "$video": path.resolve("./public/video")
     }
   }
 });
