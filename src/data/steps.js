@@ -1,5 +1,5 @@
 export default [
-    '#1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <span class="scroll-more">Scroll for more...</span>',
-    '#2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    '#3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <span class="blue-01">tempor incididunt</span> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <span class="green-01">exercitation ullamco laboris</span> nisi ut aliquip ex ea commodo consequat.'
+    '#1: Over the past seven years, more permits for temporary foreign workers, DESCRIPTION, have been <span class="blue-01">approved in B.C.</span> than any other province. Most of the permits went to companies in the agricultural sector. <span class="scroll-more">Scroll for more...</span>',
+    '#2: <span class="blue-01">B.C. companies</span> also received the most fines of any province. $2.7 million in fines were XXX between 2017-2023, over $1 million more than in Ontario, the province with the second highest fines.',
+    '#3: That worked out to nearly $13,000 dollars in fines for every 1,000 temporary work permits issued over seven years.'
 ];

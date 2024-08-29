@@ -39,8 +39,8 @@
 <!-- MARKUP -->
 <section class="scrollyteller sticky">
     <header>
-        <h1>HED</h1>
-        <p class="subhead">TK TK TK</p>
+        <h1>B.C. LEADS IN FOREIGN WORKERS AND FINES</h1>
+        <p class="subhead"></p>
     </header>
     <div class="chart sticky">
         <!-- svelte-ignore a11y-missing-attribute -->
