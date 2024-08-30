@@ -40,11 +40,4 @@
         padding: 0.75rem 1rem;
         max-width: 80%;
     }
-    /* dunno why but this doesn't work - has to be in main.css  */
-    .step-content .scroll-more {
-	    display: block;
-	    font-family: BentonSansCond-BoldItalic;
-	    margin-top: 10px;
-        text-align: center;
-    }
 </style>

@@ -4,6 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: process.env.MODE === 'production' ? '/09xx-tfwp-story/' : '/',
   plugins: [svelte()],
   resolve: {
     alias: {
