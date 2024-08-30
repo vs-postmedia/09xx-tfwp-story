@@ -11,7 +11,7 @@
 <Scrolly bind:value={currentStep}>
     {#each Steps as step, i}
         <li class="step" class:active={currentStep === i}>
-            <div class="step-content">{@html step}</div>
+            <div class="step-content"><p>{@html step}</p></div>
         </li>
     {/each}
 </Scrolly>
