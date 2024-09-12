@@ -13,7 +13,7 @@
     import Steps from '$components/Steps.svelte';
 
     // SET CHART HEIGH & URL HERE...
-    const chartHeight = '400px';
+    const chartHeight = '375px';
     const flourishStoryUrl = 'https://flo.uri.sh/story/2554762/embed';
 
     // FUNCTIONS
@@ -75,7 +75,7 @@
     }
 
     .steps {
-        margin-top: -100%;
+        margin-top: -175%;
         pointer-events: none;
         position: relative;
         z-index: 2;

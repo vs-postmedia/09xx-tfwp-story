@@ -29,8 +29,8 @@
         transition: opacity 300ms ease;
     }
     .step:first-of-type {
-        top: -50%;
-        opacity: 1;
+
+        /* opacity: 1; */
     }
     .step.active {
         opacity: 1;
